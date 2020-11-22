@@ -58,5 +58,11 @@
 		"branch-alias": {
 			"dev-master": "2.6-dev"
 		}
-	}
+	},
+	"repositories": [
+		{
+			"type": "vcs",
+			"url": "https://github.com/Jakub-Fajkus/DoctrineCache"
+		}
+	]
 }
